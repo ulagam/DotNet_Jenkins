@@ -1,0 +1,4 @@
+C:\inetpub\wwwroot\DotNet_Jenkins_Console\DotNet_Jenkins_Console\bin\Debug\DotNet_Jenkins_Console.exe
+C:\inetpub\wwwroot\DotNet_Jenkins_Console\DotNet_Jenkins_Console\bin\Debug\DotNet_Jenkins_Console.pdb
+C:\inetpub\wwwroot\DotNet_Jenkins_Console\DotNet_Jenkins_Console\obj\Debug\DotNet_Jenkins_Console.exe
+C:\inetpub\wwwroot\DotNet_Jenkins_Console\DotNet_Jenkins_Console\obj\Debug\DotNet_Jenkins_Console.pdb
